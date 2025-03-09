@@ -2,7 +2,7 @@
 
 **Due: Fri Nov 8, 11:59PM PST**
 
-**100 points total**
+**100 points total** 
 
 ![My Image](handout/teaser.jpg?raw=true)
 
